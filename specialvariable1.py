@@ -12,5 +12,5 @@ def Login():
 def main():
     userinfo()
     Login()
-if(__name__=='__main__'):
+#if(__name__=='__main__'):
     main()
